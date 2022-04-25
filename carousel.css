@@ -5,6 +5,7 @@
 .cover{
   display: grid;
   height: 100%;
+  padding-top: 45px;
 }
 
 .cover-photo{
