@@ -26,6 +26,11 @@ body {
   border:1px solid #000;
 }
 
+.navbar .navbar-nav .nav-link:hover {
+  background-color: #808080;
+  color: #fff;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
